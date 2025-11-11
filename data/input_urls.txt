@@ -1,0 +1,2 @@
+https://www.cars.com/shopping/results/?deal_ratings[]=great&stock_type=used
+https://www.cars.com/shopping/results/?make=Toyota&stock_type=used

@@ -1,0 +1,46 @@
+[
+    {
+        "list_url": "https://www.cars.com/shopping/results/?deal_ratings[]=great&dealer_id=&keyword=&list_price_max=&list_price_min=&makes[]=&maximum_distance=all&mileage_max=&page_size=20&sort=listed_at_desc&stock_type=used&year_max=&year_min=&zip=",
+        "record_url": "https://www.cars.com/vehicledetail/910d58bd-f609-4cbe-8a53-72384e9c6242/",
+        "name": "2015 Hyundai Sonata Limited",
+        "description": "",
+        "mileage": "116883",
+        "price": "12995",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Limited",
+        "year": "2015",
+        "vin": "5NPE34AF1FH195268",
+        "body": "Sedan",
+        "cylinders": "4",
+        "doors": "4",
+        "drivetrain": "Front-wheel Drive",
+        "exterior_color": "BLUE",
+        "interior_color": "Gray",
+        "fuel": "Gasoline",
+        "transmission": "6-SPEED A/T",
+        "features": [
+            "Backup Camera",
+            "Blind Spot Monitor",
+            "Bluetooth",
+            "Brake Assist",
+            "Stability Control",
+            "Leather Seats",
+            "Heated Seats",
+            "Heated Steering Wheel",
+            "HomeLink",
+            "Keyless Start",
+            "Lane Departure Warning",
+            "Navigation System",
+            "Sunroof/Moonroof",
+            "Premium Sound System",
+            "Rear Cross Traffic Alert",
+            "USB Port"
+        ],
+        "stock_number": "1069",
+        "engine": "4-Cylinder Engine",
+        "images": [
+            "https://platform.cstatic-images.com/xlarge/in/v2/b25160d0-b562-4cca-a2c8-1e7c94dd7dd6/82918e26-6c50-4cdf-86f9-fd5670041a19/zeKVAitzIclgVX5di4pZSLpRnnE.jpg"
+        ]
+    }
+]
